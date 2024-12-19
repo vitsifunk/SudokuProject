@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SudokuProject": {
+      "commandName": "Project",
+      "commandLineArgs": "p01.txt",
+      "workingDirectory": "C:\\Users\\vitsi\\source\\repos\\SudokuFinal\\bin\\Debug\\net8.0"
+    }
+  }
+}
